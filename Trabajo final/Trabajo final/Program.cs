@@ -10,6 +10,11 @@ namespace Trabajo_final
 {
     class Program:Datos
     {
+    
+    /*Hacer un programa que permita registrar usuarios y loguearlos, una vez logueados muestre los datos del usuario.
+    
+    NOTA: EL PROGRAMA NO DEBE PARAR SU EJECUCION AUTOMATICAMENTE
+    */
        
          public static void Login(Usuario1 [] U1)
         {
